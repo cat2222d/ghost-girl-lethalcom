@@ -1,0 +1,9 @@
+{
+    "name": "funnygirl",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/cat2222d/ghost-girl-lethalcom",
+    "description": "just a ghost girl mod",
+    "dependencies": [
+        "funnygirl-1.1.0"
+    ]
+}
